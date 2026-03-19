@@ -9,8 +9,8 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("38311724"))
+API_HASH = getenv("2bd297386a91a00113064b350be08173")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("8690835249:AAHrdXRTJMk5pmxSAHRFWff52RvQLCJlI1Q")
 # -------------------------------------------------------
@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("mongodb+srv://krishnaji020220:krishnaji020220@kanhamusic.quxicda.mongodb.net/?appName=KANHAMUSIC", None)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
