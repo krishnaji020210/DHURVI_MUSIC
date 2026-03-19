@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("8690835249:AAHrdXRTJMk5pmxSAHRFWff52RvQLCJlI1Q")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","LORD_SASUKE")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","EVA_MUSIC_BOT")
+BOT_USERNAME = getenv("@Evaa_music_bot","EVA_MUSIC_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME")
+BOT_NAME = getenv("⏤ 𝐄 𝚅 𝚲 𝐌 𝚄 𝚂 𝚰 𝐂 𝂈̽ ᰼ 🌷"˖")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME")
 # ---------------------------------------------------------
